@@ -1,6 +1,6 @@
 {
   "name": "first-component-test",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Made with create-react-library",
   "author": "MariaGCafarelli",
   "license": "MIT",
@@ -24,7 +24,8 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^16.0.0",
+    "react-dom": "^16.13.1"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
